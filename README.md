@@ -2,13 +2,13 @@
 
 > A structured, interactive, checkbox-driven roadmap from Python basics all the way to GenAI, LLMs, Agentic AI, RAG, and beyond.
 
-[![Deploy to GitHub Pages](https://github.com/<YOUR-USERNAME>/<YOUR-REPO>/actions/workflows/deploy.yml/badge.svg)](https://github.com/<YOUR-USERNAME>/<YOUR-REPO>/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/<YOUR-USERNAME>/aiml-roadmap-todo-list/actions/workflows/deploy.yml/badge.svg)](https://github.com/<YOUR-USERNAME>/aiml-roadmap-todo-list/actions/workflows/deploy.yml)
 
 ---
 
 ## 🚀 Live Demo
 
-**[https://\<YOUR-USERNAME\>.github.io/\<YOUR-REPO\>/](https://your-username.github.io/your-repo/)**
+**[https://\<YOUR-USERNAME\>.github.io/aiml-roadmap-todo-list/](https://your-username.github.io/aiml-roadmap-todo-list/)**
 
 ---
 
@@ -55,8 +55,8 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<YOUR-USERNAME>/<YOUR-REPO>.git
-cd <YOUR-REPO>
+git clone https://github.com/<YOUR-USERNAME>/aiml-roadmap-todo-list.git
+cd aiml-roadmap-todo-list
 
 # 2. Install dependencies
 npm install
@@ -92,7 +92,7 @@ Every push to `main` triggers an automatic build & deploy.
 
 5. Your site will be live at:
    ```
-   https://<YOUR-USERNAME>.github.io/<YOUR-REPO>/
+   https://<YOUR-USERNAME>.github.io/aiml-roadmap-todo-list/
    ```
 
 > **Note:** Since this project uses `vite-plugin-singlefile`, the entire app is bundled into a single `dist/index.html` — no base path configuration needed. It works out of the box at any URL.
